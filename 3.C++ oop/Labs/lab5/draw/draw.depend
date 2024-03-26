@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699089668 source:c:\users\bios\onedrive\desktop\iti ai&ml\3.c++ oop\labs\lab5\draw\main.cpp
+	<iostream>
+	<graphics.h>
+
