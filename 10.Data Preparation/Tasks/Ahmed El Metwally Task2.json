@@ -1,0 +1,16 @@
+{
+  "students": {
+    "student": [
+      {
+        "firstName": "Sandy",
+        "lastName": "Guillaumeau",
+        "date": "1988-04-09"
+      },
+      {
+        "firstName": "Quentin",
+        "lastName": "Decayeux",
+        "date": "1990-02-01"
+      }
+    ]
+  }
+}
